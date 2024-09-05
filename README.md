@@ -41,6 +41,7 @@ Users should be able to:
 
 - React js
 - react-redux
+- redux-toolkit
 - react-router-dom
 - react-icons
 - tailwind css
